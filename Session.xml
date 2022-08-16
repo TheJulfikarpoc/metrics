@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="StartSetupCompleted" value="true" />
+    <string name="Token">eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE2NjA2OTExMDMsImV4cCI6MTY5MjIyNzEwMywicm9sZXMiOlsiUk9MRV9VU0VSIiwiUk9MRV9UT1NfQUNDRVBURUQiLCJST0xFX0NPTkZJUk1FRF9FTUFJTCJdLCJlbWFpbCI6InJiaGFza2Fyc2Fya2FyMDJAZ21haWwuY29tIn0.V_pKw19m4ehLIuqa2NxGtpWL_-v4OXn62WzqvaFDhbG87leJArd0ZamYs6BuYlD757NgYPcHJHAhNcm4_Hqy8b_urua6o-t9sKBC-lzpWejQWWpK1adfKokdJ9uaqRWFpzngF81Cbym0wZoFQxWF3nhpBiV44VOsCl50Uqt3UnbmrP-IG_nk-Ey_hbjlRK7DIR5M63LeeOImelIpWClyFNbdopX2qBOVfecFv3seXjGPGaD6TGmf4X4qXV637m3EMQJ1aH-wwKR2mKmL1W3bVJtQhlEZQ3w2hBwiqbDIJTFGzP4vs_C5-nY7N8PbOFXJfVwHtES6w3j6sHR4rthz6w</string>
+    <string name="Vid">9c4df47a48b248bbad303653ea512dd7a3c3da622cbd4ffe809c8b621ba23cae</string>
+    <boolean name="WelcomeSeen" value="true" />
+</map>
